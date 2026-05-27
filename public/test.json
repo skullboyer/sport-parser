@@ -1,0 +1,9 @@
+{
+  "totalDistance": 42,
+  "totalTime": 210,
+  "records": [
+    { "distance": 2 },
+    { "distance": 5 },
+    { "distance": 8 }
+  ]
+}
